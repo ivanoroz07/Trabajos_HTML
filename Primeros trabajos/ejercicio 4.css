@@ -1,0 +1,69 @@
+body{
+    background-color: #ECFFE6;
+}
+#mexico {
+    background-image:  url(./assets/60562083_2699241086813912_1800286334401642496_n.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}
+#jalisco {
+    background-image:  url(./assets/jalisco.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}
+#nuevo-leon {
+    background-image:  url(./assets/nuevo\ leon.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#sinaloa {
+    background-image:  url(./assets/sinaloa.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#chihuahua {
+    background-image:  url(./assets/chihuahua.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#morelos {
+    background-image:  url(./assets/morelos.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#michoacan {
+    background-image:  url(./assets/michoacan.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#oaxaca {
+    background-image:  url(./assets/oaxaca.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#yucatan {
+    background-image:  url(./assets/yucatan.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}#veracruz {
+    background-image:  url(./assets/veracruz.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 80px;
+}
+.receta{
+    margin-left: 500px;
+}

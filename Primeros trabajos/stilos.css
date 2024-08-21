@@ -1,0 +1,22 @@
+
+    body{
+    font-family: "Playwrite DK Loopet", cursive;
+    background: #272725;
+    color: whitesmoke;
+    border: 5px outset blanchedalmond;
+    padding: 10px 0px 10px 10px;
+}
+img{
+    width: 300px;
+    margin-left: 500px;
+}
+#biografia{
+    text-align: center;
+}
+ol {margin-left: 550px; 
+font-size: 20px;}
+h1{text-align: center;}
+h3{text-align: center;}
+a{color: red;}
+ul{font-size: 16px;}
+
