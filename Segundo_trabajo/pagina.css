@@ -1,0 +1,81 @@
+
+body{
+    background-color: #40534C;
+    color: #D6BD98;
+    padding: 10px 80px 10px 30px;
+    text-align: justify;
+}
+#Ecatepecf{
+    width: 700px;
+    display: block;
+    margin: auto;
+    border-top: 500px;
+}
+#mapa{
+    margin: 20px 0 0px 15px;
+    height: 200px;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+.titulo{
+    /*display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 90%;
+    background-color: #399918;
+    color: #ECFFE6;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #399918;
+    color: #ECFFE6;
+    padding: 10px 30px;
+    box-sizing: border-box;
+}
+.turismo{
+    display: flex;
+    border-right: 200px;
+}
+#tamaño{
+    width: 250px;
+    margin-left: 30px;
+}
+li{
+    font-weight: bold;
+}
+.cuerpo{
+    padding-top: 85px;
+    
+}
+.probando{
+
+}
+#bordet{
+    padding-top: 0;
+    margin-top: 0;
+    border-top: 0;
+}
+#bordeb{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+#imgpr{
+    float: left;
+    margin: 0 15px 15px 0;
+    width: 300px;    
+}
+#grafpob{
+    float: right;
+    margin: 0 0 0 20px;
+    width: 480px;
+}
+#dire{
+    color: #D6BD98;
+}
+
