@@ -1,0 +1,16 @@
+h1, .carousel, ul, footer{
+    margin: 20px, 0px, 20px, 0px;
+}
+.footer-tittle, p, ul{
+    text-align: center;
+}
+.margenes{
+    margin: 20px 0 20px 0;
+}
+#ajueste{
+    height: 300px; object-fit: cover;
+}
+.espacio{
+    margin-bottom: 35px;
+}
+@media (max-width: 576px)
